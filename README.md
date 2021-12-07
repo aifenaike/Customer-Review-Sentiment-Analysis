@@ -2,7 +2,7 @@
  A sentiment analysis model for product reviews by customers.
 
 ## Review Dataset
-Our dataset consists of reviews written by customers for various food products. The reviews, originally given on a 5 point scale, have been adjusted to a +1 or -1 scale, representing a positive or negative review, respectively. Here are two examples from the dataset:
+The dataset consists of reviews written by customers for various food products. The reviews, originally given on a 5 point scale, have been adjusted to a +1 or -1 scale, representing a positive or negative review, respectively. Here are two examples from the dataset:
 
 Review 1 – Label **-1 (Negative sentiment)**
 
