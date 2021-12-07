@@ -19,6 +19,7 @@ There are some general library requirements for the project and some which are s
 - numpy
 - scikit-learn
 - nltk
+
 The library requirements specific to some methods are:
 
 - Pytorch 
@@ -30,4 +31,4 @@ Note: It is recommended to use Anaconda distribution of Python.
 - data/reviews_train.tsv: Train set of reviews
 - data/reviews_val.tsv: validation set of reviews
 - data/reviews_test.tsv: test set of reviews
-- data/glove-seeds.txt: GloVe words vectors from StanfordNLP which match our dataset for seeding word embeddings.
+
