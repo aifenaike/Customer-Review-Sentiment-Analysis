@@ -16,18 +16,18 @@ Review 2 – Label **1 (Positive sentiment)**
 ## Requirements
 There are some general library requirements for the project and some which are specific to individual methods. The general requirements are as follows.
 
-numpy
-scikit-learn
-nltk
+- numpy
+- scikit-learn
+- nltk
 The library requirements specific to some methods are:
 
-Pytorch 
+- Pytorch 
 
 Note: It is recommended to use Anaconda distribution of Python.
 
 ## Information about  files
 
-data/reviews_train.tsv: Train set of reviews
-data/reviews_val.tsv: validation set of reviews
-data/reviews_test.tsv: test set of reviews
-dataset/glove-seeds.txt: GloVe words vectors from StanfordNLP which match our dataset for seeding word embeddings.
+- data/reviews_train.tsv: Train set of reviews
+- data/reviews_val.tsv: validation set of reviews
+- data/reviews_test.tsv: test set of reviews
+- data/glove-seeds.txt: GloVe words vectors from StanfordNLP which match our dataset for seeding word embeddings.
