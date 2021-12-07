@@ -26,6 +26,22 @@ The library requirements specific to some methods are:
 
 Note: It is recommended to use Anaconda distribution of Python.
 
+## Approach
+
+### Feature Extraction
+
+- GloVe Embeddings
+- Sequence Padding
+
+### Model Architecture
+
+Three different model architecutres were used to develop different classifier;
+- Embedding Bag Model
+- Average Embedding Model
+- Bidirectional Long Short-Term Memory Network (BiLSTM)
+
+The performance (accuracy) of the three architectures were compared and BiLSTM had the highest performance - the test accuracy is 0.858. 
+
 ## Information about  files
 
 - data/reviews_train.tsv: Train set of reviews
